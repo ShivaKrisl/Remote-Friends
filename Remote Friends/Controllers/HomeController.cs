@@ -1,6 +1,5 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using Remote_Friends.Models;
 
 namespace Remote_Friends.Controllers
 {
